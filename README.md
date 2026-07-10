@@ -190,19 +190,6 @@ Save them inside the `screenshots/` folder.
 
 ---
 
-# Future Improvements
-
-* Integrate real Cursor AI APIs
-* Connect Codeium for automated test generation
-* Use Grafana ML for anomaly detection
-* Analyze logs using Claude AI
-* Generate reports using the OpenAI API
-* Integrate GitHub Actions for CI/CD
-* Deploy to AWS or Azure
-* Add Kubernetes support
-
----
-
 # Author
 
 **Oluwaferanmi Dada**
